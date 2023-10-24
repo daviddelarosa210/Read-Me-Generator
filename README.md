@@ -4,7 +4,7 @@
 ## Description
 This project generates a read me and inserts it directly into your project file
 
-[![Watch the video](/)]
+[![Watch the video](/photos/Screen%20Recording%202023-10-23%20at%2011.06.35%20PM.mov)]
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
