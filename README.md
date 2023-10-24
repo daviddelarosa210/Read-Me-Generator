@@ -4,6 +4,7 @@
 ## Description
 This project generates a read me and inserts it directly into your project file
 
+[![Watch the video](/)]
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
